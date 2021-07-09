@@ -1,6 +1,6 @@
 # DB定義書
 ## ER図
-[ER図]（https://github.com/Aso2001177/2021sys-design/blob/main/uml24.md "ER図はこちら"）
+[ER図はこちら]( https://github.com/Aso2001177/2021sys-design/blob/main/uml24.md "ER図はこちら" )
 # DBテーブルカラム詳細一覧
 ## データベース詳細
 
