@@ -30,3 +30,21 @@
 |メールアドレス|mail|varchar(100)||〇||
 |削除フラグ|del|int(1)||〇||
 |登録日|reg|date||〇||
+
+## 商品カテゴリ
+|和名|属性名（カラム）|型|PK|NN|FK|
+|-|-|-|-|-|-|
+|カテゴリID|category_id|int(1)|〇|〇||
+|商品名|item_name|varchar(20)||〇||
+
+## 商品マスタ
+|和名|属性名（カラム）|型|PK|NN|FK|
+|-|-|-|-|-|-|
+|商品コード|item_code|int(11)|〇|〇||
+|商品名|item_name|varchar(50)||〇||
+|価格|price|int(11)||〇||
+|カテゴリID|category_id|iny(11)||〇||
+|画像ファイル|image|varchar(200)||〇||
+|商品詳細説明|detail|varchar(500)||〇||
+|削除フラグ|del|int(11)||〇||
+|登録日|reg|date||〇||
