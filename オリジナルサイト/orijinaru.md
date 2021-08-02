@@ -8,5 +8,6 @@ https://github.com/Aso2001177/2021sys-design/blob/main/img/%E3%82%B7%E3%82%B9%E3
 ### 画面遷移表
 https://github.com/Aso2001177/2021sys-design/blob/main/jyoutai.md
 ### 画面詳細
+https://github.com/Aso2001177/2021sys-design/blob/main/src/%E7%94%BB%E9%9D%A2%E8%A9%B3%E7%B4%B0%E5%9B%B3/%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8.md 
 ### DB定義書
 
