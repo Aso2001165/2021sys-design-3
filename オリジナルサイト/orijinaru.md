@@ -10,5 +10,3 @@ https://github.com/Aso2001177/2021sys-design/blob/main/jyoutai.md
 ### 画面詳細
 ### DB定義書
 
-
-https://github.com/Aso2001177/2021sys-design/blob/main/jyoutai.md
